@@ -86,7 +86,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: " jagriti nagar, Bareilly",
-  phoneNo: "+91 9557063311 ",
+  address: "Lucknow",
+  
   email: "priyanshi140702@gmail.com",
 };
