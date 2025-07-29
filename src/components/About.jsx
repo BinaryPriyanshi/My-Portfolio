@@ -1,4 +1,4 @@
-import aboutImg from "../assets/girl3.jpg";
+import aboutImg from "../assets/girlWEB.jpg";
 import{motion} from "framer-motion";
 
 const About = () => {
@@ -15,7 +15,7 @@ const About = () => {
         <div className="flex items-center justify-center">
              <img 
              
-              className="rounded-2xl h-85 w-80" src={aboutImg} alt="aboutImg"/>
+              className="rounded-2xl h-[350PX] w-80" src={aboutImg} alt="aboutImg"/>
         </div>
         
         </div>
@@ -26,7 +26,7 @@ const About = () => {
          className="w-full lg:w-1/2">
         <div className="flex justify-center lg:justify-start">
              <p className="my-2 max-w-xl py-6">
-             I am Priyanshi, a Full Stack Developer in my Fourth year of B.Tech (Computer Science and Engineering) at the Institute of Engineering and Technology, Lucknow. I specialize in JavaScript, CSS, HTML, React.js, Node.js,express.js,mongodb,mysql , currently learing angular.js and have experience with  C++. My skills include Full Stack Development, Data Structures, Algorithms, Version Control and many more  .<br></br>
+             I am Priyanshi, a Full Stack Developer,I have completed my B.Tech in Computer Science and Engineering from the Institute of Engineering and Technology, Lucknow. I specialize in Next.js,React.js ,JavaScript,Tailwind CSS, HTML, Node.js,express.js,mongodb,mysql , currently leanring about LLMS and ReAct Agents  and I also have experience with  C++ and DSA. My skills include Full Stack Development, Data Structures, Algorithms, Version Control and many more  .<br></br>
              
              
              Achievements:<br></br>

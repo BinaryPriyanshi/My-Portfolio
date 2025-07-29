@@ -15,27 +15,41 @@ export const EXPERIENCES = [
   //   description: `Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
   //   technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
   // },
-  {
-    year: "june'2024 - july'2024",
-    role: "School Website Developement",
-    company: "Lata Deep school",
-    description: `Designed and developed userfriendly fully functional website  using Next.js , React.js,html,css,javascript,former motion. Worked closely with backend  to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
-    technologies: ["HTML", "CSS", "react.js", "mySQL"],
+   {
+    year: "JULY'2025-Present",
+    role: "Software Engineer 1",
+    company: "Globus Learn Corp",
+    description: `◦ As part of a 3-person engineering team, architected and built the ‘prepzy.ai‘ platform from the ground up, including
+its core CMS and LMS functionalities.
+◦ Developed the backend for the Learning Management System (LMS) using Node.js and MySQL, creating APIs for
+course creation, student enrollment, and progress tracking.
+◦ Engineered the frontend of the Content Management System (CMS) in Next.js, enabling dynamic content updates
+and reducing content deployment time by 60%`,
+    technologies: ["React.js","Next.js","TypeScript","Tailwind.css","Javascript","MySql","PostgresSql","mongodb"],
   },
-  {
-    year: "aug'2024-sept'2024",
-    role: "web development internship",
-    company: "Tech Octanet",
-    description: `This internship covers essential concept nd practical applications,guided by industry experts and supported by valuable resources.`,
-    technologies: ["HTML","CSS","Javascript","react","mongodb"],
+    {
+    year: "JAN'2025-JUNE'2025",
+    role: "Full Stack developer intern",
+    company: "Globus Learn Corp",
+    description: `◦ Contributed to the initial development of ‘app.prepzy.ai‘, implementing user authentication and building core UI
+components with TypeScript and Redux Toolkit.
+◦ Developed and integrated a module for user-generated content within the LMS, allowing instructors to create and
+manage their own curriculum and assessments.
+`,
+    technologies: ["React.js","Next.js","TypeScript","Tailwind.css","Javascript","MySql","PostgresSql","mongodb"],
   },
-//   {
-//     year: "2020 - 2021",
-//     role: "Software Engineer",
-//     company: "Paypal",
-//     description: `Contributed to the development of web applications using JavaScript, React.js, and Node.js. Managed databases and implemented data storage solutions using MongoDB. Worked closely with product managers to prioritize features and enhancements.`,
-//     technologies: ["Ruby", "Rails", "PHP", "Sqlite"],
-//   },
+ 
+  {
+    year: "OCT'2024 - DEC'2024",
+    role: "Software Developer intern",
+    company: "TATA Consultancy Services (TCS)",
+    description: `◦ Developed and delivered production-ready webpages using Angular 17, contributing to a 10% increase in website
+performance.        
+◦ Collaborated with senior engineers to implement robust and efficient code, which led to a 20% reduction in reported
+bugs for the features developed`,
+    technologies: [ "Angular 16+",,"typescript" ,"react.js", "mySQL"],
+  },
+
 
 ];
 

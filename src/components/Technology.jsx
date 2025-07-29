@@ -57,7 +57,7 @@ const Technology = () => {
             animate="animate" className="rounded-2xl border-4 border-neutral-800 p-4">
                <SiMongodb className="text-5xl text-green-800"/>
             </motion.div>
-            
+          
               
             </motion.div>
          </div>
